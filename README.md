@@ -32,7 +32,8 @@ pnpm i
 4. Убедитесь, что пакет Prettier был обнаружен автоматически, это должно быть что-то вроде
    myproject/node_modules/prettier.
 
-5. Обновите Run for Files, чтобы включить .php, например: {\*_/_,\*}.{js,ts,jsx,tsx,php,json,scss,vue,md}.
+5. Обновите Run for Files, чтобы включить .php, например: \*\*_/_
+   \*.{js,jsx,ts,tsx,vue,html,css,scss,less,json,md,mdx,graphql,yaml,yml,php}.
 
 6. Отметьте кнопку On Save, если вы хотите, чтобы форматирование файлов выполнялось при сохранении.
 

@@ -10,8 +10,7 @@
 Выполните команду `git clone` для клонирования репозитория на вашем компьютере:
 
 ```bash
-git clone https://github.com/ваш-проект.git
-cd ваш-проект
+git clone git@github.com:AndreyDevWork/php-development-tools.git
 ```
 
 ### Шаг 2: Установка зависимостей
